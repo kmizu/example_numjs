@@ -1,0 +1,19 @@
+{
+  "name": "example_numjs",
+  "version": "1.0.0",
+  "description": "Example of NumJS https://github.com/cliffordwolf/NumJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmizu/example_numjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmizu/example_numjs/issues"
+  },
+  "homepage": "https://github.com/kmizu/example_numjs#readme"
+}
